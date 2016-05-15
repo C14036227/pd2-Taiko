@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>taiko cover.jpg</file>
+        <file>start.jpg</file>
+        <file>stop.jpg</file>
+        <file>game bg.png</file>
+        <file>main_drum.png</file>
+        <file>drum_bg.png</file>
+        <file>core.png</file>
+        <file>bottom.png</file>
+        <file>miku2.png</file>
+        <file>honoka.png</file>
+        <file>kotori.png</file>
+        <file>umi.png</file>
+        <file>countdown.png</file>
+        <file>left_red.png</file>
+        <file>right_red.png</file>
+        <file>left_blue.png</file>
+        <file>right_blue.png</file>
+        <file>num0.png</file>
+        <file>num1.png</file>
+        <file>num2.png</file>
+        <file>num3.png</file>
+        <file>num4.png</file>
+        <file>num5.png</file>
+        <file>num6.png</file>
+        <file>num7.png</file>
+        <file>num8.png</file>
+        <file>num9.png</file>
+        <file>note_blue_big1.png</file>
+        <file>note_blue_big2.png</file>
+        <file>note_blue1.png</file>
+        <file>note_blue2.png</file>
+        <file>note_red_big1.png</file>
+        <file>note_red_big2.png</file>
+        <file>note_red1.png</file>
+        <file>note_red2.png</file>
+        <file>explosion.png</file>
+    </qresource>
+</RCC>
